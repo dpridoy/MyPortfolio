@@ -45,7 +45,8 @@ class _LandingPageState extends State<LandingPage> {
             SizedBox(height: 8,),
             Container(
               padding: EdgeInsets.symmetric(horizontal: 50),
-              child: Text("IoT Engineer || Android || Python || Machine Learning",
+              child: Text("IoT Engineer || Android || Python || Machine Learning || Flutter",
+                textAlign: TextAlign.center,
                 style: TextStyle(
                   fontSize: 16,
                   color: Colors.black87
